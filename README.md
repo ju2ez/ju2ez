@@ -2,11 +2,11 @@
 
 
 
-![ju2ez GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&theme=dark)
+![ju2ez GitHub stats](https://github-readme-stats.vercel.app/api?username=ju2ez&count_private=true&theme=dark)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anuraghazra&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ju2ez&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&theme=dark&)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ju2ez)](https://github.com/anuraghazra/github-readme-stats&theme=dark&)
 
 
 <!--
