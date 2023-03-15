@@ -6,12 +6,12 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ju2ez&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ju2ez)](https://github.com/anuraghazra/github-readme-stats&theme=dark&)
+
 
 
 <!--
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ju2ez)](https://github.com/anuraghazra/github-readme-stats&theme=dark&)
 
 **ju2ez/ju2ez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
