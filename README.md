@@ -2,7 +2,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&theme=dark)
+![ju2ez GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&theme=dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anuraghazra&theme=dark&background=000000)](https://git.io/streak-stats)
 
